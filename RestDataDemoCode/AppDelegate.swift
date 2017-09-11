@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  RestDataDemoCode
 //
-//  Created by Balu Naik on 7/6/17.
-//  Copyright © 2017 RJTCOMPUQUEST. All rights reserved.
+//  Created by AM Esfar-E-Alam on 7/6/17.
+//  Copyright © 2017 AM Esfar-E-Alam. All rights reserved.
 //
 
 import UIKit
